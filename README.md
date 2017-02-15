@@ -12,5 +12,10 @@ Places to find datasets
     - http://cvgl.stanford.edu/projects/groupdiscovery/
     - https://www.cis.upenn.edu/~jshi/ped_html/
     - https://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/
+    
+    - with bounding box
+      - http://cbcl.mit.edu/software-datasets/PedestrianData.html 
+      - http://pascal.inrialpes.fr/data/human/
+      
   - people indoor
   
