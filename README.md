@@ -11,11 +11,11 @@ Places to find datasets
   - people outdoor
     - http://cvgl.stanford.edu/projects/groupdiscovery/
     - https://www.cis.upenn.edu/~jshi/ped_html/
-    - https://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/
     
     - with bounding box
       - http://cbcl.mit.edu/software-datasets/PedestrianData.html 
       - http://pascal.inrialpes.fr/data/human/
+      - https://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/ (with experimental results using various algorithms)
       
   - people indoor
   
