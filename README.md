@@ -19,7 +19,6 @@ Places to find datasets
         - python utility
           - https://github.com/mitmul/caltech-pedestrian-dataset-converter
           - https://github.com/hizhangp/caltech-pedestrian-converter
-          - https://github.com/mitmul/caltech-pedestrian-dataset-converter/blob/.../README.md
           - www.kanadas.com/program-e/2015/06/converting_caltech_pedestrian.html
           
   - people indoor
