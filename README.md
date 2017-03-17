@@ -6,6 +6,7 @@ Places to find datasets
 - http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm
 - http://riemenschneider.hayko.at/vision/dataset/index.php
 - http://clickdamage.com/sourcecode/cv_datasets.php
+- https://www.kaggle.com/datasets
 
 ## Individual databases
   - people outdoor
